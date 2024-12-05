@@ -1,6 +1,6 @@
 # cmm307_advanced_artificial_intelligence
 
-***Created By: Valentin Kiss (1608118)
+***Created By: Valentin Kiss (1608118)***
 
 ### Selected Paper:
 
@@ -8,6 +8,7 @@
 
 ### Folder Structure:
 
+* The notebook containing the project: **CMM307 Coursework.ipynb**
 * The data used in this project can be found compressed in **ag_news_data.zip**. This folder contains three files:
     * train.csv - the data used for training of all algorithms in the notebook
     * test.csv - the data used for testing of all algorithms in the notebook
